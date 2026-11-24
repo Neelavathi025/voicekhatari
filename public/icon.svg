@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14452F" />
+      <stop offset="100%" stop-color="#1B5E3A" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)" />
+  <!-- Ledger book frame -->
+  <rect x="112" y="108" width="288" height="296" rx="28" fill="#FAF8F4" />
+  <rect x="136" y="108" width="20" height="296" fill="#52B788" />
+  <!-- Ledger lines -->
+  <rect x="184" y="160" width="172" height="16" rx="8" fill="#D8F3DC" />
+  <rect x="184" y="198" width="132" height="14" rx="7" fill="#E5E9E2" />
+  <!-- Microphone badge -->
+  <circle cx="272" cy="296" r="56" fill="#14452F" />
+  <rect x="256" y="262" width="32" height="48" rx="16" fill="#A7F3D0" />
+  <path d="M240 296a32 32 0 0 0 64 0" fill="none" stroke="#A7F3D0" stroke-width="8" stroke-linecap="round" />
+  <line x1="272" y1="328" x2="272" y2="344" stroke="#A7F3D0" stroke-width="8" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Voice ಖಾತರಿ (Voice Khatari)",
+  "description": "Your Shop. Your Voice. Your Trusted Khata. A free, offline-first digital ledger for small kirana stores in India.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
